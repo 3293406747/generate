@@ -14,11 +14,11 @@
 
 ![](img/console.png)
 
-### 数据库
+### MYSQL
 
 ![](img/mysql.png)
 
-### CSV文件
+### CSV
 
 ![](img/csv.png)
 
